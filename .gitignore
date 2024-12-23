@@ -1,4 +1,5 @@
 input_data/*
+!input_data/Example.txt
 old
 __pycache__
 urls.csv

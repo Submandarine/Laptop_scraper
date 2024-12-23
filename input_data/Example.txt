@@ -1,0 +1,2820 @@
+Zum Hauptinhalt <#mainContent>
+Hallo tobiasruehl!
+
+Laden...
+eBay Plus <https://www.ebay.de/ebayplus/home>Deals <https://www.ebay.de/
+deals>Lokal <https://www.ebay.de/vlp/ebaylokal>Hilfe <https://
+www.ebay.de/help/home>
+Lokal mit Abholung! <https://www.ebay.de/vlp/ebaylokal>
+Verkaufen <https://www.ebay.de/sl/verkaufen>
+Beobachtungsliste
+
+<https://www.ebay.de/mye/myebay/watchlist>
+Beobachtungsliste einblenden
+
+Mein eBay//
+
+<https://www.ebay.de/mys/home?source=GBH>
+Mein eBay einblenden
+
+  * Zusammenfassung <https://www.ebay.de/mye/myebay/summary>
+  * Zuletzt angesehen <https://www.ebay.de/mye/myebay/rvi>
+  * Gebote/Preisvorschläge <https://www.ebay.de/mye/myebay/bidsoffers>
+  * Beobachtungsliste <https://www.ebay.de/mye/myebay/watchlist>
+  * Kaufen - Übersicht <https://www.ebay.de/mye/myebay/purchase>
+  * Verkaufen - Übersicht <https://www.ebay.de/mys/home?
+    CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH>
+  * Gespeicherter Feed <https://www.ebay.de/mye/myebay/saved>
+  * Gespeicherte Suchen <https://www.ebay.de/mye/myebay/savedsearches>
+  * Gespeicherte Verkäufer <https://www.ebay.de/mye/myebay/savedsellers>
+  * My Garage <https://www.ebay.de/g/mygarage>
+  * Nachrichten <https://mesg.ebay.de/mesgweb/ViewMessages/0>
+  * Lokal <https://www.ebay.de/vlp/ebaylokal>
+  * <https://www.ebay.de/ebayplus/home>
+
+Benachrichtigungen einblenden
+
+Keine neuen Benachrichtigungen.
+
+<https://cart.ebay.de/>
+Warenkorb einblenden
+
+Laden...
+
+eBay-Startseite<https://www.ebay.de/>
+Stöbern in Kategorien
+
+Enter your search keyword
+
+Finden
+
+Erweitert <https://www.ebay.de/sch/ebayadvsearch>
+
+Verkäufer-Cockpit Pro
+tobiasruehlProfil ansehen <https://www.ebay.de/usr/tobiasruehl>
+8tobiasruehl hat einen Bewertungspunktestand von 8 <https://www.ebay.de/
+fdbk/feedback_profile/tobiasruehl>
+Nachrichten (14) <https://mesg.ebay.de/mesgweb/ViewMessages/0/All>
+
+  * Übersicht <https://www.ebay.de/sh/ovw>
+  * Bestellungen <https://www.ebay.de/sh/ord>
+    Bestellungen einblenden
+
+      o Alle Bestellungen <https://www.ebay.de/sh/ord/?
+        filter=status:ALL_ORDERS>
+      o Noch nicht bezahlt <https://www.ebay.de/sh/ord/?
+        filter=status:AWAITING_PAYMENT>
+      o Noch nicht verschickt <https://www.ebay.de/sh/ord/?
+        filter=status:AWAITING_SHIPMENT>
+      o Bezahlt und verschickt <https://www.ebay.de/sh/ord/?
+        filter=status:PAID_SHIPPED>
+      o Abbrüche <https://www.ebay.de/sh/ord/cancel>
+      o Rückgaben <https://www.ebay.de/sh/ord/return>
+      o Anfragen und Streitfälle <https://www.ebay.de/sh/resolutions>
+      o Versandetiketten <https://www.ebay.de/lbr/labels-history/seller-hub>
+  * Angebote <https://www.ebay.de/sh/lst/active>
+    Angebote einblenden
+
+      o Angebot erstellen <https://www.ebay.de/sl/sell?sr=shListingsTopNav>
+      o Aktiv <https://www.ebay.de/sh/lst/active>
+      o Nicht verkauft <https://www.ebay.de/sh/lst/ended?
+        status=UNSOLD_NOT_RELISTED>
+      o Entwürfe <https://www.ebay.de/sh/lst/drafts>
+      o Geplant <https://www.ebay.de/sh/lst/scheduled>
+      o Beendet <https://www.ebay.de/sh/lst/ended?
+        status=UNSOLD_NOT_RELISTED>
+  * Marketing <https://www.ebay.de/sh/mktv2>
+  * AdvertisingNEU <https://www.ebay.de/sh/ads/dashboard>
+    Werbung einblenden
+
+      o Cockpit <https://www.ebay.de/sh/ads/dashboard>
+      o Kampagnen <https://www.ebay.de/sh/ads/dashboard/campaigns>
+  * eBay Shop <https://www.ebay.de/sh/str/edit>
+  * Performance <https://www.ebay.de/sh/performance>
+    Performance einblenden
+
+      o Zusammenfassung <https://www.ebay.de/sh/performance>
+      o Servicestatus <https://sellerstandards.ebay.de/dashboard?region=DE>
+      o Umsatz <https://www.ebay.de/sh/performance/sales>
+      o Traffic <https://www.ebay.de/sh/performance/traffic>
+      o Servicestatistiken <https://www.ebay.de/sh/performance/service-
+        metrics>
+  * Zahlungen <https://www.ebay.de/sh/fin>
+    Zahlungen erweitern
+
+      o Zusammenfassung <https://www.ebay.de/sh/fin/summary>
+      o Alle Transaktionen <https://www.ebay.de/sh/fin/transactions>
+      o Auszahlungen <https://www.ebay.de/sh/fin/payouts>
+      o Berichte <https://www.ebay.de/sh/fin/report>
+  * Marktanalyse, ausgewählt <https://www.ebay.de/sh/research>
+    Marktanalyse einblenden
+
+      o Produktrecherche <https://www.ebay.de/sh/research>
+      o Insights zur Warenbeschaffung <https://www.ebay.de/sh/research/
+        sourcing-insights>
+  * Berichte <https://www.ebay.de/sh/reports/uploads>
+    Berichte einblenden
+
+      o Uploads <https://www.ebay.de/sh/reports/uploads>
+      o Downloads <https://www.ebay.de/sh/reports/downloads>
+      o Planen <https://www.ebay.de/sh/reports/schedule>
+
+  * ProduktrechercheJetzt ausgewählt <https://www.ebay.de/sh/research>
+  * Insights zur Warenbeschaffung <https://www.ebay.de/sh/research/
+    sourcing-insights>
+
+
+  Produkte recherchieren
+
+Zur Infotour
+Einführung
+
+Filter
+
+Trends
+
+Kommentare?Kommentare? <https://connect.ebay.de/srv/survey/a/
+b2c.sellerhub.terapeak>
+Angebots-Website:Marktplatz-Auswahl
+
+Letzte 90 Tage
+
+Letzte 7 Tage
+
+Letzte 30 Tage
+
+Letzte 90 Tage
+
+Letzte 6 Monate
+
+Letztes Jahr
+
+Letzte 2 Jahre
+
+Letzte 3 Jahre
+
+Individuell
+
+Recherche
+
+Zurücksetzen
+
+Ausgewählte Kategorie:
+Alle Kategorien
+
+Alle Kategorien
+
+PC Notebooks & Netbooks
+
+Computer, Tablets & Netzwerk > Notebooks & Netbooks
+
+Notebook-Koffer & -Taschen
+
+Computer, Tablets & Netzwerk > Notebook- & Desktop-Zubehör
+
+Notebook-Netzteile/-Ladegeräte
+
+Computer, Tablets & Netzwerk > Notebook- & Desktop-Zubehör
+
+Notebook-Displays/LCD-Displays
+
+Computer, Tablets & Netzwerk > Computer-Komponenten & -Teile > Notebook-
+Ersatzteile
+
+Sonstige
+
+Computer, Tablets & Netzwerk > Computer-Komponenten & -Teile > Notebook-
+Ersatzteile
+
+Sonstige
+
+Computer, Tablets & Netzwerk > Notebook- & Desktop-Zubehör
+
+Apple Notebooks
+
+Computer, Tablets & Netzwerk > Notebooks & Netbooks
+
+Notebook-Akkus
+
+Computer, Tablets & Netzwerk > Notebook- & Desktop-Zubehör
+
+Notebook-Kühlpads
+
+Computer, Tablets & Netzwerk > Notebook- & Desktop-Zubehör
+
+Anwenden
+
+Andere Kategorie auswählen
+Ausgewählte Filter festlegen
+Filter: Zustand
+
+Anwenden
+
+Filter: Format (1 Ausgewählt)
+
+Auktion(8957)
+Preisvorschlag akzeptiert(223870)
+Festpreis(4349395)
+Anwenden
+
+Filter: Preis (Ausgewählt)
+
+-
+Anwenden
+
+Am besten bewertet
+
+Angebote mit Top-Bewertung ausschließen(4356394)
+Nur Angebote mit Top-Bewertung ansehen(0)
+Anwenden
+
+Weitere Filter
+
+
+    Kategorien bearbeiten
+
+ebay.de(81122)
+
+Antiquitäten & Kunst(13)
+
+Beauty & Gesundheit(28)
+
+Baby(12)
+
+Büro & Schreibwaren(1126)
+
+Auto & Motorrad: Teile(259)
+
+Bastel- & Künstlerbedarf(9)
+
+Möbel & Wohnen(1050)
+
+Verschiedenes(54)
+
+Handys & Kommunikation(283)
+
+Uhren & Schmuck(23)
+
+Reisen(1228)
+
+Modellbau(12)
+
+Sammeln & Seltenes(54)
+
+Sport(1076)
+
+Filme & Serien(1)
+
+Musik(10)
+
+Garten & Terrasse(32)
+
+Heimwerker(168)
+
+TV, Video & Audio(363)
+
+Haustierbedarf(19)
+
+Haushaltsgeräte(18)
+
+Computer, Tablets & Netzwerk(69650)
+
+Business & Industrie(2341)
+
+Musikinstrumente(125)
+
+Kleidung & Accessoires(2860)
+
+Spielzeug(37)
+
+PC- & Videospiele(109)
+
+Bücher & Zeitschriften(30)
+
+Foto & Camcorder(132)
+Abbrechen
+
+Anwenden
+
+Festpreis
+
+Angebotsformat
+
+€80 - €400
+
+Preisspanne
+
+Verkauft
+Aktiv
+Aktuelle Trends ansehen
+163,61 €
+Durchschn. Angebotspreis
+
+Der durchschnittliche Preis, zu dem ähnliche Artikel aktuell eingestellt
+sind. Versandkosten sind nicht im Angebotspreis enthalten.
+
+76,94 € bis 384,65 €
+Angebots-Preisspanne
+
+Die niedrigsten und höchsten Preise, zu denen ähnliche Artikel
+eingestellt sind. Versandkosten sind nicht in den Angebotspreisen enthalten.
+
+10,02 €
+Durchschn. Versandkosten
+
+Die durchschnittlichen Versandkosten, die vom Käufer zu zahlen sind.
+Dieser Durchschnittswert berücksichtigt keine Angebote mit kostenlosem
+Versand.
+
+51%
+Kostenloser Versand
+
+Der Anteil an aktiven Angeboten mit kostenlosem Versand.
+
+106.202
+Aktive Angebote gesamt
+
+Die Gesamtzahl der aktiven Angebote.
+
+51%
+Anzeigen
+
+Der Anteil der Angebote, die mit Anzeigen beworben werden.
+
+  *
+  *
+  *
+  *
+  *
+  *
+
+Angebot
+
+Für Angebote, die älter als 90 Tage sind, sind Angebotsdetails ggf.
+nicht verfügbar.
+
+	
+Angebotspreis
+
+Rabatte in Angebotspreis berücksichtigt.
+
+	
+Aktionen
+	
+Gebote
+
+Fujitsu Lifebook T939 2in1 Convertible Toch-Laptop Intel i5-8th Win11 +
+Stylus
+, Vorschau des Bildes anzeigen
+
+Fujitsu Lifebook T939 2in1 Convertible Toch-Laptop Intel i5-8th Win11 +
+Stylus
+
+Fujitsu Lifebook T939 2in1 Convertible Toch-Laptop Intel i5-8th Win11 +
+Stylus <https://www.ebay.de/itm/235789653143?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=235789653143>
+
+	
+175,52 €
+Kostenloser Versand
+	
+-
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+, Vorschau des Bildes anzeigen
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB
+SSD <https://www.ebay.de/itm/356395307607?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356395307607>
+
+	
+120,32 €
+Kostenloser Versand
+	
+-
+Lenovo 320 17 i5 8GB RAM 128SSD 1TBHDD NVIDIA Windows 11 DVD
+, Vorschau des Bildes anzeigen
+
+Lenovo 320 17 i5 8GB RAM 128SSD 1TBHDD NVIDIA Windows 11 DVD
+
+Lenovo 320 17 i5 8GB RAM 128SSD 1TBHDD NVIDIA Windows 11 DVD <https://
+www.ebay.de/itm/176740463912?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176740463912>
+
+	
+137,41 €
+Kostenloser Versand
+	
+9
+Lenovo ThinkPad T470 i5 8GB 256GB SSD M.2 14,1" Win11 A-Ware
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad T470 i5 8GB 256GB SSD M.2 14,1" Win11 A-Ware
+
+Lenovo ThinkPad T470 i5 8GB 256GB SSD M.2 14,1" Win11 A-Ware <https://
+www.ebay.de/itm/316047604245?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=316047604245>
+
+	
+139,42 €
+Kostenloser Versand
+	
+-
+SGIN Laptop 15.6 Zoll 4GB DDR4 RAM 128GB SSD Typ-C Mini HDMI WiFi UP TO
+2.6GHz
+, Vorschau des Bildes anzeigen
+
+SGIN Laptop 15.6 Zoll 4GB DDR4 RAM 128GB SSD Typ-C Mini HDMI WiFi UP TO
+2.6GHz
+
+SGIN Laptop 15.6 Zoll 4GB DDR4 RAM 128GB SSD Typ-C Mini HDMI WiFi UP TO
+2.6GHz <https://www.ebay.de/itm/335612008338?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335612008338>
+
+	
+149,45 €
+Kostenloser Versand
+	
+-
+Lenovo ThinkBook 15 G2 %7c 512GB SSD %7c Intel Core i5-1135G7 %7c RAM
+16GB %7c Win 11
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkBook 15 G2 %7c 512GB SSD %7c Intel Core i5-1135G7 %7c RAM
+16GB %7c Win 11
+
+Lenovo ThinkBook 15 G2 %7c 512GB SSD %7c Intel Core i5-1135G7 %7c RAM
+16GB %7c Win 11 <https://www.ebay.de/itm/176730892640?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176730892640>
+
+	
+141,42 €
++7,01 € Versand
+	
+8
+Acer Switch 5
+, Vorschau des Bildes anzeigen
+
+Acer Switch 5
+
+Acer Switch 5 <https://www.ebay.de/itm/335742102683?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335742102683>
+
+	
+300,91 €
++7,01 € Versand
+	
+-
+HP ProBook 445 G7 Notebook 14 Zoll Ryzen 5 8GB 250GB SSD FHD Win11P Laptop
+, Vorschau des Bildes anzeigen
+
+HP ProBook 445 G7 Notebook 14 Zoll Ryzen 5 8GB 250GB SSD FHD Win11P Laptop
+
+HP ProBook 445 G7 Notebook 14 Zoll Ryzen 5 8GB 250GB SSD FHD Win11P
+Laptop <https://www.ebay.de/itm/335600591592?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335600591592>
+
+	
+219,67 €
+Kostenloser Versand
+	
+-
+HP 15s-eq2132ng 15,6" FHD IPS, Ryzen 3 5300U, 8GB RAM, kein SSD kein
+LadegerÃ¤t
+, Vorschau des Bildes anzeigen
+
+HP 15s-eq2132ng 15,6" FHD IPS, Ryzen 3 5300U, 8GB RAM, kein SSD kein
+LadegerÃ¤t
+
+HP 15s-eq2132ng 15,6" FHD IPS, Ryzen 3 5300U, 8GB RAM, kein SSD kein
+LadegerÃ¤t <https://www.ebay.de/itm/356399094538?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356399094538>
+
+	
+80,23 €
++7,52 € Versand
+	
+-
+Sony Vaio Notebook i5 8GB RAM 750 GB HDD
+, Vorschau des Bildes anzeigen
+
+Sony Vaio Notebook i5 8GB RAM 750 GB HDD
+
+Sony Vaio Notebook i5 8GB RAM 750 GB HDD <https://www.ebay.de/
+itm/186854216336?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=186854216336>
+
+	
+80,24 €
++6,77 € Versand
+	
+-
+Asus X73S Laptop 17 Zoll mit 256GB SSD 8GB RAM i5
+, Vorschau des Bildes anzeigen
+
+Asus X73S Laptop 17 Zoll mit 256GB SSD 8GB RAM i5
+
+Asus X73S Laptop 17 Zoll mit 256GB SSD 8GB RAM i5 <https://www.ebay.de/
+itm/116414467337?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116414467337>
+
+	
+89,27 €
+Kostenloser Versand
+	
+-
+Difinity Notebook 17,3 Zoll %7c Intel Quad 2,70 GHz %7c 16GB RAM %7c
+512GB %7c Win 11
+, Vorschau des Bildes anzeigen
+
+Difinity Notebook 17,3 Zoll %7c Intel Quad 2,70 GHz %7c 16GB RAM %7c
+512GB %7c Win 11
+
+Difinity Notebook 17,3 Zoll %7c Intel Quad 2,70 GHz %7c 16GB RAM %7c
+512GB %7c Win 11 <https://www.ebay.de/itm/165477327563?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=165477327563>
+
+	
+299,91 €
+Kostenloser Versand
+	
+-
+lenovo ideapad 3 (15iau7) 15,6 Zoll(Full HD) i3-1215U 512GB SSD 8Gb
+Ram(3200Mhz)
+, Vorschau des Bildes anzeigen
+
+lenovo ideapad 3 (15iau7) 15,6 Zoll(Full HD) i3-1215U 512GB SSD 8Gb
+Ram(3200Mhz)
+
+lenovo ideapad 3 (15iau7) 15,6 Zoll(Full HD) i3-1215U 512GB SSD 8Gb
+Ram(3200Mhz) <https://www.ebay.de/itm/326380255741?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=326380255741>
+
+	
+350,06 €
++7,01 € Versand
+	
+-
+Lenovo Yoga 500, Convertible 2 in 1 Notebook ,Intel i5, 8Gb-RAM, 512Gb,
+Win 11
+, Vorschau des Bildes anzeigen
+
+Lenovo Yoga 500, Convertible 2 in 1 Notebook ,Intel i5, 8Gb-RAM, 512Gb,
+Win 11
+
+Lenovo Yoga 500, Convertible 2 in 1 Notebook ,Intel i5, 8Gb-RAM, 512Gb,
+Win 11 <https://www.ebay.de/itm/267098077016?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=267098077016>
+
+	
+99,30 €
++5,51 € Versand
+	
+0
+Notebook Lenovo ideapad 320-15IKB 15,6 Zoll Intel Core i5-8250U
+, Vorschau des Bildes anzeigen
+
+Notebook Lenovo ideapad 320-15IKB 15,6 Zoll Intel Core i5-8250U
+
+Notebook Lenovo ideapad 320-15IKB 15,6 Zoll Intel Core i5-8250U
+<https://www.ebay.de/itm/167196233680?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=167196233680>
+
+	
+120,36 €
+Kostenloser Versand
+	
+-
+ASUS Laptop Notebook (P2520LA) %7c WINDOWS 11 Pro %7c i3-4005U %7c 4GB
+RAM %7c 120GB SSD
+, Vorschau des Bildes anzeigen
+
+ASUS Laptop Notebook (P2520LA) %7c WINDOWS 11 Pro %7c i3-4005U %7c 4GB
+RAM %7c 120GB SSD
+
+ASUS Laptop Notebook (P2520LA) %7c WINDOWS 11 Pro %7c i3-4005U %7c 4GB
+RAM %7c 120GB SSD <https://www.ebay.de/itm/356398565726?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356398565726>
+
+	
+96,28 €
+Kostenloser Versand
+	
+-
+Lenovo IdeaPad 3 14IIL05 81WD Core i5-1035G1 8GB RAM 256GB SSD 14"
+FullHD Win11
+, Vorschau des Bildes anzeigen
+
+Lenovo IdeaPad 3 14IIL05 81WD Core i5-1035G1 8GB RAM 256GB SSD 14"
+FullHD Win11
+
+Lenovo IdeaPad 3 14IIL05 81WD Core i5-1035G1 8GB RAM 256GB SSD 14"
+FullHD Win11 <https://www.ebay.de/itm/267103679106?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=267103679106>
+
+	
+100,30 €
++4,26 € Versand
+	
+-
+ASUSPRO B8430U Notebook
+, Vorschau des Bildes anzeigen
+
+ASUSPRO B8430U Notebook
+
+ASUSPRO B8430U Notebook <https://www.ebay.de/itm/135459238592?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=135459238592>
+
+	
+240,72 €
+Kostenloser Versand
+	
+-
+MSI GP72 Leopard Pro GamingLaptop
+, Vorschau des Bildes anzeigen
+
+MSI GP72 Leopard Pro GamingLaptop
+
+MSI GP72 Leopard Pro GamingLaptop <https://www.ebay.de/itm/396023259612?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=396023259612>
+
+	
+300,91 €
++7,01 € Versand
+	
+-
+Blackview Laptop 15,6Zoll Notebook 16GB DDR4 512GB SSD Intel 12th N97
+3.6GHz W11
+, Vorschau des Bildes anzeigen
+
+Blackview Laptop 15,6Zoll Notebook 16GB DDR4 512GB SSD Intel 12th N97
+3.6GHz W11
+
+Blackview Laptop 15,6Zoll Notebook 16GB DDR4 512GB SSD Intel 12th N97
+3.6GHz W11 <https://www.ebay.de/itm/355773313712?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=355773313712>
+
+	
+330,00 €
+Kostenloser Versand
+	
+-
+Notebook Lenovo V15 Intel N4020 %7c 8GB RAM %7c 512GB SSD %7c Windows 11 Pro
+, Vorschau des Bildes anzeigen
+
+Notebook Lenovo V15 Intel N4020 %7c 8GB RAM %7c 512GB SSD %7c Windows 11 Pro
+
+Notebook Lenovo V15 Intel N4020 %7c 8GB RAM %7c 512GB SSD %7c Windows 11
+Pro <https://www.ebay.de/itm/154708353398?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=154708353398>
+
+	
+299,91 €
+Kostenloser Versand
+	
+-
+HP Multimedia Laptop 15,6 Zoll %7c AMD Athlon 3150U %7c 16GB Ram %7c
+512GB SSD %7c Win11
+, Vorschau des Bildes anzeigen
+
+HP Multimedia Laptop 15,6 Zoll %7c AMD Athlon 3150U %7c 16GB Ram %7c
+512GB SSD %7c Win11
+
+HP Multimedia Laptop 15,6 Zoll %7c AMD Athlon 3150U %7c 16GB Ram %7c
+512GB SSD %7c Win11 <https://www.ebay.de/itm/186489304337?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=186489304337>
+
+	
+334,01 €
+Kostenloser Versand
+	
+-
+Konvolut Laptop Dell,Lenovo,Asus, Samsung,Medion
+, Vorschau des Bildes anzeigen
+
+Konvolut Laptop Dell,Lenovo,Asus, Samsung,Medion
+
+Konvolut Laptop Dell,Lenovo,Asus, Samsung,Medion <https://www.ebay.de/
+itm/356391204111?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356391204111>
+
+	
+80,23 €
++6,77 € Versand
+	
+0
+Lenovo ThinkPad X1 Carbon Gen 6 i5-8350U 8GB 256GB 14" WQHD Win11
+StoreDeal #59
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad X1 Carbon Gen 6 i5-8350U 8GB 256GB 14" WQHD Win11
+StoreDeal #59
+
+Lenovo ThinkPad X1 Carbon Gen 6 i5-8350U 8GB 256GB 14" WQHD Win11
+StoreDeal #59 <https://www.ebay.de/itm/365203340549?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=365203340549>
+
+	
+299,91 €
+Kostenloser Versand
+	
+-
+SGIN 15,6 Zoll Laptop 4GB RAM 128GB SSD Bis Zu 2.6GHz IPS Computer MINI HDMI
+, Vorschau des Bildes anzeigen
+
+SGIN 15,6 Zoll Laptop 4GB RAM 128GB SSD Bis Zu 2.6GHz IPS Computer MINI HDMI
+
+SGIN 15,6 Zoll Laptop 4GB RAM 128GB SSD Bis Zu 2.6GHz IPS Computer MINI
+HDMI <https://www.ebay.de/itm/335612008089?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335612008089>
+
+	
+149,45 €
+Kostenloser Versand
+	
+-
+Lenovo Notebook X250, inklusive Docking Station, techn. geprÃ¼ft, linux mint
+, Vorschau des Bildes anzeigen
+
+Lenovo Notebook X250, inklusive Docking Station, techn. geprÃ¼ft, linux mint
+
+Lenovo Notebook X250, inklusive Docking Station, techn. geprÃ¼ft, linux
+mint <https://www.ebay.de/itm/116426321212?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116426321212>
+
+	
+198,60 €
+Kostenloser Versand
+	
+-
+17 Zoll Laptop HP, Windows 10, Intel Core i5, 8 GB RAM, 1TB HDD, Rot
+, Vorschau des Bildes anzeigen
+
+17 Zoll Laptop HP, Windows 10, Intel Core i5, 8 GB RAM, 1TB HDD, Rot
+
+17 Zoll Laptop HP, Windows 10, Intel Core i5, 8 GB RAM, 1TB HDD, Rot
+<https://www.ebay.de/itm/256757251278?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256757251278>
+
+	
+125,38 €
++6,02 € Versand
+	
+-
+HP EliteBook x360 1030 G4 13,3 Zoll (33,8 cm) (512 GB SSD, Intel Core i5
+8. Gen,
+, Vorschau des Bildes anzeigen
+
+HP EliteBook x360 1030 G4 13,3 Zoll (33,8 cm) (512 GB SSD, Intel Core i5
+8. Gen,
+
+HP EliteBook x360 1030 G4 13,3 Zoll (33,8 cm) (512 GB SSD, Intel Core i5
+8. Gen, <https://www.ebay.de/itm/286226168328?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=286226168328>
+
+	
+260,79 €
++7,01 € Versand
+	
+-
+Lenovo Ideapad Z580, Intel i7, 512GB SSD, 16GB DDR3, 2 Akkus, Windows 10
+Home
+, Vorschau des Bildes anzeigen
+
+Lenovo Ideapad Z580, Intel i7, 512GB SSD, 16GB DDR3, 2 Akkus, Windows 10
+Home
+
+Lenovo Ideapad Z580, Intel i7, 512GB SSD, 16GB DDR3, 2 Akkus, Windows 10
+Home <https://www.ebay.de/itm/176737316371?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176737316371>
+
+	
+80,24 €
++7,01 € Versand
+	
+0
+Konvolut 6x Notebook Lenovo Defekt, Bastler
+, Vorschau des Bildes anzeigen
+
+Konvolut 6x Notebook Lenovo Defekt, Bastler
+
+Konvolut 6x Notebook Lenovo Defekt, Bastler <https://www.ebay.de/
+itm/116422397648?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116422397648>
+
+	
+99,30 €
++6,77 € Versand
+	
+0
+LENOVO ThinkPad L13 Gen 2 i5-1135G7 16GB 512GB SSD Win10Pro Laptop K623
+, Vorschau des Bildes anzeigen
+
+LENOVO ThinkPad L13 Gen 2 i5-1135G7 16GB 512GB SSD Win10Pro Laptop K623
+
+LENOVO ThinkPad L13 Gen 2 i5-1135G7 16GB 512GB SSD Win10Pro Laptop K623
+<https://www.ebay.de/itm/356399272256?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356399272256>
+
+	
+306,92 €
+Kostenloser Versand
+	
+-
+17 Zoll Notebook ASUS K751LJ / Windows 10 / 12 GB RAM / 256 GB SSD
+, Vorschau des Bildes anzeigen
+
+17 Zoll Notebook ASUS K751LJ / Windows 10 / 12 GB RAM / 256 GB SSD
+
+17 Zoll Notebook ASUS K751LJ / Windows 10 / 12 GB RAM / 256 GB SSD
+<https://www.ebay.de/itm/316068851725?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=316068851725>
+
+	
+111,45 €
++7,01 € Versand
+	
+-
+HP 17,3 Zoll Notebook 17-cn0217ng 8GB RAM 512GB SSD Windows 11 HDMI B-WARE
+, Vorschau des Bildes anzeigen
+
+HP 17,3 Zoll Notebook 17-cn0217ng 8GB RAM 512GB SSD Windows 11 HDMI B-WARE
+
+HP 17,3 Zoll Notebook 17-cn0217ng 8GB RAM 512GB SSD Windows 11 HDMI B-
+WARE <https://www.ebay.de/itm/335620309261?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335620309261>
+
+	
+269,82 €
++6,92 € Versand
+	
+-
+GPD Micro N4100 8GB SSD 128GB 6Zoll Laptop PC funktioniert
+, Vorschau des Bildes anzeigen
+
+GPD Micro N4100 8GB SSD 128GB 6Zoll Laptop PC funktioniert
+
+GPD Micro N4100 8GB SSD 128GB 6Zoll Laptop PC funktioniert <https://
+www.ebay.de/itm/176720982693?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176720982693>
+
+	
+312,55 €
++5,51 € Versand
+	
+-
+Toshiba Tecra X40-F i5 8Â° 14 " Windows 11+Office 24 Pro 16GB 250GB
+Touchscreen
+, Vorschau des Bildes anzeigen
+
+Toshiba Tecra X40-F i5 8Â° 14 " Windows 11+Office 24 Pro 16GB 250GB
+Touchscreen
+
+Toshiba Tecra X40-F i5 8Â° 14 " Windows 11+Office 24 Pro 16GB 250GB
+Touchscreen <https://www.ebay.de/itm/356395500336?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356395500336>
+
+	
+160,47 €
++7,01 € Versand
+	
+-
+Gaming Notebook HP Omen 17,3Â´Â´ Core i7 32GB 1TB SSD GeForce RTX
+, Vorschau des Bildes anzeigen
+
+Gaming Notebook HP Omen 17,3Â´Â´ Core i7 32GB 1TB SSD GeForce RTX
+
+Gaming Notebook HP Omen 17,3Â´Â´ Core i7 32GB 1TB SSD GeForce RTX
+<https://www.ebay.de/itm/256757350659?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256757350659>
+
+	
+188,91 €
++10,52 € Versand
+	
+0
+ANTIVANDAL TABLET PANASONIC FZ-M1 INTEL i5 256GB SSD M.2 LTE GPS WLAN
+WINDOWS 10
+, Vorschau des Bildes anzeigen
+
+ANTIVANDAL TABLET PANASONIC FZ-M1 INTEL i5 256GB SSD M.2 LTE GPS WLAN
+WINDOWS 10
+
+ANTIVANDAL TABLET PANASONIC FZ-M1 INTEL i5 256GB SSD M.2 LTE GPS WLAN
+WINDOWS 10 <https://www.ebay.de/itm/276364768992?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=276364768992>
+
+	
+175,53 €
++7,97 € Versand
+	
+-
+Lenovo G700 Notebook 17,3" Pentium 2.40 GHz 8GB RAM 256GB SSD WIN11 PRO
+-100%25 OK
+, Vorschau des Bildes anzeigen
+
+Lenovo G700 Notebook 17,3" Pentium 2.40 GHz 8GB RAM 256GB SSD WIN11 PRO
+-100%25 OK
+
+Lenovo G700 Notebook 17,3" Pentium 2.40 GHz 8GB RAM 256GB SSD WIN11 PRO
+-100%25 OK <https://www.ebay.de/itm/326376935770?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=326376935770>
+
+	
+80,24 €
++7,01 € Versand
+	
+-
+Lenovo ThinkPad T470 i5 16GB 256GB SSD M.2 14,1" Win11 A-Ware
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad T470 i5 16GB 256GB SSD M.2 14,1" Win11 A-Ware
+
+Lenovo ThinkPad T470 i5 16GB 256GB SSD M.2 14,1" Win11 A-Ware <https://
+www.ebay.de/itm/316047604244?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=316047604244>
+
+	
+159,48 €
+Kostenloser Versand
+	
+-
+HP EliteBook 840 G6 i5 8365U 8GB RAM 256GB NVME W11 Neuer AKKU
+Gebrauchspuren
+, Vorschau des Bildes anzeigen
+
+HP EliteBook 840 G6 i5 8365U 8GB RAM 256GB NVME W11 Neuer AKKU
+Gebrauchspuren
+
+HP EliteBook 840 G6 i5 8365U 8GB RAM 256GB NVME W11 Neuer AKKU
+Gebrauchspuren <https://www.ebay.de/itm/235876078513?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=235876078513>
+
+	
+129,39 €
++7,01 € Versand
+	
+-
+HP Notebook 17-y018ng 17,3 Full-HD 4GB RAM 1TB HDD AMD Quad Core E2-7110
+, Vorschau des Bildes anzeigen
+
+HP Notebook 17-y018ng 17,3 Full-HD 4GB RAM 1TB HDD AMD Quad Core E2-7110
+
+HP Notebook 17-y018ng 17,3 Full-HD 4GB RAM 1TB HDD AMD Quad Core E2-7110
+<https://www.ebay.de/itm/256749232701?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256749232701>
+
+	
+80,23 €
+Kostenloser Versand
+	
+-
+Panasonic Toughbook CF-19 MK8 10.1 " Touchscreen i5-3610ME 8GB 240GB SSD
+4G LTE
+, Vorschau des Bildes anzeigen
+
+Panasonic Toughbook CF-19 MK8 10.1 " Touchscreen i5-3610ME 8GB 240GB SSD
+4G LTE
+
+Panasonic Toughbook CF-19 MK8 10.1 " Touchscreen i5-3610ME 8GB 240GB SSD
+4G LTE <https://www.ebay.de/itm/116425362996?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116425362996>
+
+	
+156,25 €
++15,12 € Versand
+	
+-
+Panasonic Toughbook CF-C2 MK2 i5 4310U 12GB ohne Netzteil, Kratzer am
+Display
+, Vorschau des Bildes anzeigen
+
+Panasonic Toughbook CF-C2 MK2 i5 4310U 12GB ohne Netzteil, Kratzer am
+Display
+
+Panasonic Toughbook CF-C2 MK2 i5 4310U 12GB ohne Netzteil, Kratzer am
+Display <https://www.ebay.de/itm/305218897167?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=305218897167>
+
+	
+141,42 €
+Kostenloser Versand
+	
+-
+Hyrican NOT01685 14" Notebook %7c i5-10210U %7c 16GB RAM %7c 500GB SSD
+%7c Win 11 %7c 1kg
+, Vorschau des Bildes anzeigen
+
+Hyrican NOT01685 14" Notebook %7c i5-10210U %7c 16GB RAM %7c 500GB SSD
+%7c Win 11 %7c 1kg
+
+Hyrican NOT01685 14" Notebook %7c i5-10210U %7c 16GB RAM %7c 500GB SSD
+%7c Win 11 %7c 1kg <https://www.ebay.de/itm/226505676544?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=226505676544>
+
+	
+250,75 €
+Kostenloser Versand
+	
+-
+Lenovo ThinkPad L13 Yoga Gen 2, Intel i5-1135G7, 8GB Ram, ohne SSD, als
+Defekt
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad L13 Yoga Gen 2, Intel i5-1135G7, 8GB Ram, ohne SSD, als
+Defekt
+
+Lenovo ThinkPad L13 Yoga Gen 2, Intel i5-1135G7, 8GB Ram, ohne SSD, als
+Defekt <https://www.ebay.de/itm/146203900162?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=146203900162>
+
+	
+150,41 €
++7,02 € Versand
+	
+-
+Lenovo V155-15API AMD RYREN 5-3500U %7c 8GB RAM %7c Vega 8 Grafik
+, Vorschau des Bildes anzeigen
+
+Lenovo V155-15API AMD RYREN 5-3500U %7c 8GB RAM %7c Vega 8 Grafik
+
+Lenovo V155-15API AMD RYREN 5-3500U %7c 8GB RAM %7c Vega 8 Grafik
+<https://www.ebay.de/itm/395964947166?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=395964947166>
+
+	
+79,24 €
++9,03 € Versand
+	
+-
+HP Elitebook 840 G5 i5-8350U / 14" FHD / 16GB RAM /256GB NVMe/Win 11 /
+WLAN/BT.
+, Vorschau des Bildes anzeigen
+
+HP Elitebook 840 G5 i5-8350U / 14" FHD / 16GB RAM /256GB NVMe/Win 11 /
+WLAN/BT.
+
+HP Elitebook 840 G5 i5-8350U / 14" FHD / 16GB RAM /256GB NVMe/Win 11 /
+WLAN/BT. <https://www.ebay.de/itm/276768539045?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=276768539045>
+
+	
+249,76 €
++7,01 € Versand
+	
+-
+IBM ThinkPad 755CD P75 funktioniert, DOS
+, Vorschau des Bildes anzeigen
+
+IBM ThinkPad 755CD P75 funktioniert, DOS
+
+IBM ThinkPad 755CD P75 funktioniert, DOS <https://www.ebay.de/
+itm/267041187040?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=267041187040>
+
+	
+150,45 €
++5,02 € Versand
+	
+-
+Asus Rog G75VW 17,3 i7-3610QM 3.1 GHz 16GB RAM GTX 670M 3GB GDDR5 SSD
+und HDD
+, Vorschau des Bildes anzeigen
+
+Asus Rog G75VW 17,3 i7-3610QM 3.1 GHz 16GB RAM GTX 670M 3GB GDDR5 SSD
+und HDD
+
+Asus Rog G75VW 17,3 i7-3610QM 3.1 GHz 16GB RAM GTX 670M 3GB GDDR5 SSD
+und HDD <https://www.ebay.de/itm/256749484301?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256749484301>
+
+	
+290,87 €
+Kostenloser Versand
+	
+-
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+, Vorschau des Bildes anzeigen
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB
+SSD <https://www.ebay.de/itm/356395319368?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356395319368>
+
+	
+130,35 €
+Kostenloser Versand
+	
+-
+
+ 1. Seite 1
+
+Ergebnisse pro Seite
+
+Heute online
+Aktuelle Trends ansehen
+163,61 €
+Durchschn. Angebotspreis
+
+Der durchschnittliche Preis, zu dem ähnliche Artikel aktuell eingestellt
+sind. Versandkosten sind nicht im Angebotspreis enthalten.
+
+76,94 € bis 384,65 €
+Angebots-Preisspanne
+
+Die niedrigsten und höchsten Preise, zu denen ähnliche Artikel
+eingestellt sind. Versandkosten sind nicht in den Angebotspreisen enthalten.
+
+10,02 €
+Durchschn. Versandkosten
+
+Die durchschnittlichen Versandkosten, die vom Käufer zu zahlen sind.
+Dieser Durchschnittswert berücksichtigt keine Angebote mit kostenlosem
+Versand.
+
+51%
+Kostenloser Versand
+
+Der Anteil an aktiven Angeboten mit kostenlosem Versand.
+
+106.202
+Aktive Angebote gesamt
+
+Die Gesamtzahl der aktiven Angebote.
+
+51%
+Anzeigen
+
+Der Anteil der Angebote, die mit Anzeigen beworben werden.
+
+  *
+  *
+
+Angebot
+
+Für Angebote, die älter als 90 Tage sind, sind Angebotsdetails ggf.
+nicht verfügbar.
+
+	
+Aktionen
+	
+Angebotspreis
+
+Rabatte in Angebotspreis berücksichtigt.
+
+	
+Gebote
+
+	
+Beobachter
+
+Gesamtanzahl an Beobachtern pro Angebot.
+
+	
+Anzeige
+
+	
+Startdatum
+
+Fujitsu Lifebook T939 2in1 Convertible Toch-Laptop Intel i5-8th Win11 +
+Stylus
+, Vorschau des Bildes anzeigen
+
+Fujitsu Lifebook T939 2in1 Convertible Toch-Laptop Intel i5-8th Win11 +
+Stylus
+
+Fujitsu Lifebook T939 2in1 Convertible Toch-Laptop Intel i5-8th Win11 +
+Stylus <https://www.ebay.de/itm/235789653143?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=235789653143>
+
+	
+175,52 €
+Kostenloser Versand
+	
+-
+	
+19
+	
+-
+	
+16. Okt 2024
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+, Vorschau des Bildes anzeigen
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB
+SSD <https://www.ebay.de/itm/356395307607?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356395307607>
+
+	
+120,32 €
+Kostenloser Versand
+	
+-
+	
+4
+	
+-
+	
+21. Dez 2024
+Lenovo 320 17 i5 8GB RAM 128SSD 1TBHDD NVIDIA Windows 11 DVD
+, Vorschau des Bildes anzeigen
+
+Lenovo 320 17 i5 8GB RAM 128SSD 1TBHDD NVIDIA Windows 11 DVD
+
+Lenovo 320 17 i5 8GB RAM 128SSD 1TBHDD NVIDIA Windows 11 DVD <https://
+www.ebay.de/itm/176740463912?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176740463912>
+
+	
+137,41 €
+Kostenloser Versand
+	
+9
+	
+34
+	
+-
+	
+17. Dez 2024
+Lenovo ThinkPad T470 i5 8GB 256GB SSD M.2 14,1" Win11 A-Ware
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad T470 i5 8GB 256GB SSD M.2 14,1" Win11 A-Ware
+
+Lenovo ThinkPad T470 i5 8GB 256GB SSD M.2 14,1" Win11 A-Ware <https://
+www.ebay.de/itm/316047604245?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=316047604245>
+
+	
+139,42 €
+Kostenloser Versand
+	
+-
+	
+128
+	
+
+	
+13. Dez 2024
+SGIN Laptop 15.6 Zoll 4GB DDR4 RAM 128GB SSD Typ-C Mini HDMI WiFi UP TO
+2.6GHz
+, Vorschau des Bildes anzeigen
+
+SGIN Laptop 15.6 Zoll 4GB DDR4 RAM 128GB SSD Typ-C Mini HDMI WiFi UP TO
+2.6GHz
+
+SGIN Laptop 15.6 Zoll 4GB DDR4 RAM 128GB SSD Typ-C Mini HDMI WiFi UP TO
+2.6GHz <https://www.ebay.de/itm/335612008338?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335612008338>
+
+	
+149,45 €
+Kostenloser Versand
+	
+-
+	
+365
+	
+
+	
+10. Okt 2024
+Lenovo ThinkBook 15 G2 %7c 512GB SSD %7c Intel Core i5-1135G7 %7c RAM
+16GB %7c Win 11
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkBook 15 G2 %7c 512GB SSD %7c Intel Core i5-1135G7 %7c RAM
+16GB %7c Win 11
+
+Lenovo ThinkBook 15 G2 %7c 512GB SSD %7c Intel Core i5-1135G7 %7c RAM
+16GB %7c Win 11 <https://www.ebay.de/itm/176730892640?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176730892640>
+
+	
+141,42 €
++7,01 € Versand
+	
+8
+	
+37
+	
+-
+	
+12. Dez 2024
+Acer Switch 5
+, Vorschau des Bildes anzeigen
+
+Acer Switch 5
+
+Acer Switch 5 <https://www.ebay.de/itm/335742102683?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335742102683>
+
+	
+300,91 €
++7,01 € Versand
+	
+-
+	
+0
+	
+-
+	
+22. Dez 2024
+HP ProBook 445 G7 Notebook 14 Zoll Ryzen 5 8GB 250GB SSD FHD Win11P Laptop
+, Vorschau des Bildes anzeigen
+
+HP ProBook 445 G7 Notebook 14 Zoll Ryzen 5 8GB 250GB SSD FHD Win11P Laptop
+
+HP ProBook 445 G7 Notebook 14 Zoll Ryzen 5 8GB 250GB SSD FHD Win11P
+Laptop <https://www.ebay.de/itm/335600591592?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335600591592>
+
+	
+219,67 €
+Kostenloser Versand
+	
+-
+	
+351
+	
+
+	
+2. Okt 2024
+HP 15s-eq2132ng 15,6" FHD IPS, Ryzen 3 5300U, 8GB RAM, kein SSD kein
+LadegerÃ¤t
+, Vorschau des Bildes anzeigen
+
+HP 15s-eq2132ng 15,6" FHD IPS, Ryzen 3 5300U, 8GB RAM, kein SSD kein
+LadegerÃ¤t
+
+HP 15s-eq2132ng 15,6" FHD IPS, Ryzen 3 5300U, 8GB RAM, kein SSD kein
+LadegerÃ¤t <https://www.ebay.de/itm/356399094538?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356399094538>
+
+	
+80,23 €
++7,52 € Versand
+	
+-
+	
+4
+	
+-
+	
+22. Dez 2024
+Sony Vaio Notebook i5 8GB RAM 750 GB HDD
+, Vorschau des Bildes anzeigen
+
+Sony Vaio Notebook i5 8GB RAM 750 GB HDD
+
+Sony Vaio Notebook i5 8GB RAM 750 GB HDD <https://www.ebay.de/
+itm/186854216336?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=186854216336>
+
+	
+80,24 €
++6,77 € Versand
+	
+-
+	
+0
+	
+-
+	
+22. Dez 2024
+Asus X73S Laptop 17 Zoll mit 256GB SSD 8GB RAM i5
+, Vorschau des Bildes anzeigen
+
+Asus X73S Laptop 17 Zoll mit 256GB SSD 8GB RAM i5
+
+Asus X73S Laptop 17 Zoll mit 256GB SSD 8GB RAM i5 <https://www.ebay.de/
+itm/116414467337?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116414467337>
+
+	
+89,27 €
+Kostenloser Versand
+	
+-
+	
+17
+	
+-
+	
+8. Dez 2024
+Difinity Notebook 17,3 Zoll %7c Intel Quad 2,70 GHz %7c 16GB RAM %7c
+512GB %7c Win 11
+, Vorschau des Bildes anzeigen
+
+Difinity Notebook 17,3 Zoll %7c Intel Quad 2,70 GHz %7c 16GB RAM %7c
+512GB %7c Win 11
+
+Difinity Notebook 17,3 Zoll %7c Intel Quad 2,70 GHz %7c 16GB RAM %7c
+512GB %7c Win 11 <https://www.ebay.de/itm/165477327563?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=165477327563>
+
+	
+299,91 €
+Kostenloser Versand
+	
+-
+	
+1.705
+	
+
+	
+11. Mai 2022
+lenovo ideapad 3 (15iau7) 15,6 Zoll(Full HD) i3-1215U 512GB SSD 8Gb
+Ram(3200Mhz)
+, Vorschau des Bildes anzeigen
+
+lenovo ideapad 3 (15iau7) 15,6 Zoll(Full HD) i3-1215U 512GB SSD 8Gb
+Ram(3200Mhz)
+
+lenovo ideapad 3 (15iau7) 15,6 Zoll(Full HD) i3-1215U 512GB SSD 8Gb
+Ram(3200Mhz) <https://www.ebay.de/itm/326380255741?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=326380255741>
+
+	
+350,06 €
++7,01 € Versand
+	
+-
+	
+0
+	
+-
+	
+22. Dez 2024
+Lenovo Yoga 500, Convertible 2 in 1 Notebook ,Intel i5, 8Gb-RAM, 512Gb,
+Win 11
+, Vorschau des Bildes anzeigen
+
+Lenovo Yoga 500, Convertible 2 in 1 Notebook ,Intel i5, 8Gb-RAM, 512Gb,
+Win 11
+
+Lenovo Yoga 500, Convertible 2 in 1 Notebook ,Intel i5, 8Gb-RAM, 512Gb,
+Win 11 <https://www.ebay.de/itm/267098077016?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=267098077016>
+
+	
+99,30 €
++5,51 € Versand
+	
+0
+	
+7
+	
+-
+	
+15. Dez 2024
+Notebook Lenovo ideapad 320-15IKB 15,6 Zoll Intel Core i5-8250U
+, Vorschau des Bildes anzeigen
+
+Notebook Lenovo ideapad 320-15IKB 15,6 Zoll Intel Core i5-8250U
+
+Notebook Lenovo ideapad 320-15IKB 15,6 Zoll Intel Core i5-8250U
+<https://www.ebay.de/itm/167196233680?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=167196233680>
+
+	
+120,36 €
+Kostenloser Versand
+	
+-
+	
+5
+	
+-
+	
+21. Dez 2024
+ASUS Laptop Notebook (P2520LA) %7c WINDOWS 11 Pro %7c i3-4005U %7c 4GB
+RAM %7c 120GB SSD
+, Vorschau des Bildes anzeigen
+
+ASUS Laptop Notebook (P2520LA) %7c WINDOWS 11 Pro %7c i3-4005U %7c 4GB
+RAM %7c 120GB SSD
+
+ASUS Laptop Notebook (P2520LA) %7c WINDOWS 11 Pro %7c i3-4005U %7c 4GB
+RAM %7c 120GB SSD <https://www.ebay.de/itm/356398565726?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356398565726>
+
+	
+96,28 €
+Kostenloser Versand
+	
+-
+	
+2
+	
+-
+	
+22. Dez 2024
+Lenovo IdeaPad 3 14IIL05 81WD Core i5-1035G1 8GB RAM 256GB SSD 14"
+FullHD Win11
+, Vorschau des Bildes anzeigen
+
+Lenovo IdeaPad 3 14IIL05 81WD Core i5-1035G1 8GB RAM 256GB SSD 14"
+FullHD Win11
+
+Lenovo IdeaPad 3 14IIL05 81WD Core i5-1035G1 8GB RAM 256GB SSD 14"
+FullHD Win11 <https://www.ebay.de/itm/267103679106?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=267103679106>
+
+	
+100,30 €
++4,26 € Versand
+	
+-
+	
+2
+	
+-
+	
+22. Dez 2024
+ASUSPRO B8430U Notebook
+, Vorschau des Bildes anzeigen
+
+ASUSPRO B8430U Notebook
+
+ASUSPRO B8430U Notebook <https://www.ebay.de/itm/135459238592?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=135459238592>
+
+	
+240,72 €
+Kostenloser Versand
+	
+-
+	
+0
+	
+-
+	
+22. Dez 2024
+MSI GP72 Leopard Pro GamingLaptop
+, Vorschau des Bildes anzeigen
+
+MSI GP72 Leopard Pro GamingLaptop
+
+MSI GP72 Leopard Pro GamingLaptop <https://www.ebay.de/itm/396023259612?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=396023259612>
+
+	
+300,91 €
++7,01 € Versand
+	
+-
+	
+11
+	
+-
+	
+17. Dez 2024
+Blackview Laptop 15,6Zoll Notebook 16GB DDR4 512GB SSD Intel 12th N97
+3.6GHz W11
+, Vorschau des Bildes anzeigen
+
+Blackview Laptop 15,6Zoll Notebook 16GB DDR4 512GB SSD Intel 12th N97
+3.6GHz W11
+
+Blackview Laptop 15,6Zoll Notebook 16GB DDR4 512GB SSD Intel 12th N97
+3.6GHz W11 <https://www.ebay.de/itm/355773313712?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=355773313712>
+
+	
+330,00 €
+Kostenloser Versand
+	
+-
+	
+101
+	
+
+	
+7. Jun 2024
+Notebook Lenovo V15 Intel N4020 %7c 8GB RAM %7c 512GB SSD %7c Windows 11 Pro
+, Vorschau des Bildes anzeigen
+
+Notebook Lenovo V15 Intel N4020 %7c 8GB RAM %7c 512GB SSD %7c Windows 11 Pro
+
+Notebook Lenovo V15 Intel N4020 %7c 8GB RAM %7c 512GB SSD %7c Windows 11
+Pro <https://www.ebay.de/itm/154708353398?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=154708353398>
+
+	
+299,91 €
+Kostenloser Versand
+	
+-
+	
+1.359
+	
+
+	
+19. Nov 2021
+HP Multimedia Laptop 15,6 Zoll %7c AMD Athlon 3150U %7c 16GB Ram %7c
+512GB SSD %7c Win11
+, Vorschau des Bildes anzeigen
+
+HP Multimedia Laptop 15,6 Zoll %7c AMD Athlon 3150U %7c 16GB Ram %7c
+512GB SSD %7c Win11
+
+HP Multimedia Laptop 15,6 Zoll %7c AMD Athlon 3150U %7c 16GB Ram %7c
+512GB SSD %7c Win11 <https://www.ebay.de/itm/186489304337?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=186489304337>
+
+	
+334,01 €
+Kostenloser Versand
+	
+-
+	
+297
+	
+
+	
+11. Jun 2024
+Konvolut Laptop Dell,Lenovo,Asus, Samsung,Medion
+, Vorschau des Bildes anzeigen
+
+Konvolut Laptop Dell,Lenovo,Asus, Samsung,Medion
+
+Konvolut Laptop Dell,Lenovo,Asus, Samsung,Medion <https://www.ebay.de/
+itm/356391204111?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356391204111>
+
+	
+80,23 €
++6,77 € Versand
+	
+0
+	
+3
+	
+-
+	
+20. Dez 2024
+Lenovo ThinkPad X1 Carbon Gen 6 i5-8350U 8GB 256GB 14" WQHD Win11
+StoreDeal #59
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad X1 Carbon Gen 6 i5-8350U 8GB 256GB 14" WQHD Win11
+StoreDeal #59
+
+Lenovo ThinkPad X1 Carbon Gen 6 i5-8350U 8GB 256GB 14" WQHD Win11
+StoreDeal #59 <https://www.ebay.de/itm/365203340549?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=365203340549>
+
+	
+299,91 €
+Kostenloser Versand
+	
+-
+	
+88
+	
+
+	
+29. Okt 2024
+SGIN 15,6 Zoll Laptop 4GB RAM 128GB SSD Bis Zu 2.6GHz IPS Computer MINI HDMI
+, Vorschau des Bildes anzeigen
+
+SGIN 15,6 Zoll Laptop 4GB RAM 128GB SSD Bis Zu 2.6GHz IPS Computer MINI HDMI
+
+SGIN 15,6 Zoll Laptop 4GB RAM 128GB SSD Bis Zu 2.6GHz IPS Computer MINI
+HDMI <https://www.ebay.de/itm/335612008089?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335612008089>
+
+	
+149,45 €
+Kostenloser Versand
+	
+-
+	
+205
+	
+
+	
+10. Okt 2024
+Lenovo Notebook X250, inklusive Docking Station, techn. geprÃ¼ft, linux mint
+, Vorschau des Bildes anzeigen
+
+Lenovo Notebook X250, inklusive Docking Station, techn. geprÃ¼ft, linux mint
+
+Lenovo Notebook X250, inklusive Docking Station, techn. geprÃ¼ft, linux
+mint <https://www.ebay.de/itm/116426321212?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116426321212>
+
+	
+198,60 €
+Kostenloser Versand
+	
+-
+	
+0
+	
+-
+	
+22. Dez 2024
+17 Zoll Laptop HP, Windows 10, Intel Core i5, 8 GB RAM, 1TB HDD, Rot
+, Vorschau des Bildes anzeigen
+
+17 Zoll Laptop HP, Windows 10, Intel Core i5, 8 GB RAM, 1TB HDD, Rot
+
+17 Zoll Laptop HP, Windows 10, Intel Core i5, 8 GB RAM, 1TB HDD, Rot
+<https://www.ebay.de/itm/256757251278?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256757251278>
+
+	
+125,38 €
++6,02 € Versand
+	
+-
+	
+4
+	
+-
+	
+20. Dez 2024
+HP EliteBook x360 1030 G4 13,3 Zoll (33,8 cm) (512 GB SSD, Intel Core i5
+8. Gen,
+, Vorschau des Bildes anzeigen
+
+HP EliteBook x360 1030 G4 13,3 Zoll (33,8 cm) (512 GB SSD, Intel Core i5
+8. Gen,
+
+HP EliteBook x360 1030 G4 13,3 Zoll (33,8 cm) (512 GB SSD, Intel Core i5
+8. Gen, <https://www.ebay.de/itm/286226168328?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=286226168328>
+
+	
+260,79 €
++7,01 € Versand
+	
+-
+	
+2
+	
+-
+	
+21. Dez 2024
+Lenovo Ideapad Z580, Intel i7, 512GB SSD, 16GB DDR3, 2 Akkus, Windows 10
+Home
+, Vorschau des Bildes anzeigen
+
+Lenovo Ideapad Z580, Intel i7, 512GB SSD, 16GB DDR3, 2 Akkus, Windows 10
+Home
+
+Lenovo Ideapad Z580, Intel i7, 512GB SSD, 16GB DDR3, 2 Akkus, Windows 10
+Home <https://www.ebay.de/itm/176737316371?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176737316371>
+
+	
+80,24 €
++7,01 € Versand
+	
+0
+	
+7
+	
+-
+	
+15. Dez 2024
+Konvolut 6x Notebook Lenovo Defekt, Bastler
+, Vorschau des Bildes anzeigen
+
+Konvolut 6x Notebook Lenovo Defekt, Bastler
+
+Konvolut 6x Notebook Lenovo Defekt, Bastler <https://www.ebay.de/
+itm/116422397648?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116422397648>
+
+	
+99,30 €
++6,77 € Versand
+	
+0
+	
+4
+	
+-
+	
+17. Dez 2024
+LENOVO ThinkPad L13 Gen 2 i5-1135G7 16GB 512GB SSD Win10Pro Laptop K623
+, Vorschau des Bildes anzeigen
+
+LENOVO ThinkPad L13 Gen 2 i5-1135G7 16GB 512GB SSD Win10Pro Laptop K623
+
+LENOVO ThinkPad L13 Gen 2 i5-1135G7 16GB 512GB SSD Win10Pro Laptop K623
+<https://www.ebay.de/itm/356399272256?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356399272256>
+
+	
+306,92 €
+Kostenloser Versand
+	
+-
+	
+0
+	
+-
+	
+22. Dez 2024
+17 Zoll Notebook ASUS K751LJ / Windows 10 / 12 GB RAM / 256 GB SSD
+, Vorschau des Bildes anzeigen
+
+17 Zoll Notebook ASUS K751LJ / Windows 10 / 12 GB RAM / 256 GB SSD
+
+17 Zoll Notebook ASUS K751LJ / Windows 10 / 12 GB RAM / 256 GB SSD
+<https://www.ebay.de/itm/316068851725?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=316068851725>
+
+	
+111,45 €
++7,01 € Versand
+	
+-
+	
+4
+	
+-
+	
+21. Dez 2024
+HP 17,3 Zoll Notebook 17-cn0217ng 8GB RAM 512GB SSD Windows 11 HDMI B-WARE
+, Vorschau des Bildes anzeigen
+
+HP 17,3 Zoll Notebook 17-cn0217ng 8GB RAM 512GB SSD Windows 11 HDMI B-WARE
+
+HP 17,3 Zoll Notebook 17-cn0217ng 8GB RAM 512GB SSD Windows 11 HDMI B-
+WARE <https://www.ebay.de/itm/335620309261?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=335620309261>
+
+	
+269,82 €
++6,92 € Versand
+	
+-
+	
+101
+	
+-
+	
+15. Okt 2024
+GPD Micro N4100 8GB SSD 128GB 6Zoll Laptop PC funktioniert
+, Vorschau des Bildes anzeigen
+
+GPD Micro N4100 8GB SSD 128GB 6Zoll Laptop PC funktioniert
+
+GPD Micro N4100 8GB SSD 128GB 6Zoll Laptop PC funktioniert <https://
+www.ebay.de/itm/176720982693?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=176720982693>
+
+	
+312,55 €
++5,51 € Versand
+	
+-
+	
+4
+	
+-
+	
+5. Dez 2024
+Toshiba Tecra X40-F i5 8Â° 14 " Windows 11+Office 24 Pro 16GB 250GB
+Touchscreen
+, Vorschau des Bildes anzeigen
+
+Toshiba Tecra X40-F i5 8Â° 14 " Windows 11+Office 24 Pro 16GB 250GB
+Touchscreen
+
+Toshiba Tecra X40-F i5 8Â° 14 " Windows 11+Office 24 Pro 16GB 250GB
+Touchscreen <https://www.ebay.de/itm/356395500336?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356395500336>
+
+	
+160,47 €
++7,01 € Versand
+	
+-
+	
+6
+	
+-
+	
+21. Dez 2024
+Gaming Notebook HP Omen 17,3Â´Â´ Core i7 32GB 1TB SSD GeForce RTX
+, Vorschau des Bildes anzeigen
+
+Gaming Notebook HP Omen 17,3Â´Â´ Core i7 32GB 1TB SSD GeForce RTX
+
+Gaming Notebook HP Omen 17,3Â´Â´ Core i7 32GB 1TB SSD GeForce RTX
+<https://www.ebay.de/itm/256757350659?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256757350659>
+
+	
+188,91 €
++10,52 € Versand
+	
+0
+	
+39
+	
+-
+	
+20. Dez 2024
+ANTIVANDAL TABLET PANASONIC FZ-M1 INTEL i5 256GB SSD M.2 LTE GPS WLAN
+WINDOWS 10
+, Vorschau des Bildes anzeigen
+
+ANTIVANDAL TABLET PANASONIC FZ-M1 INTEL i5 256GB SSD M.2 LTE GPS WLAN
+WINDOWS 10
+
+ANTIVANDAL TABLET PANASONIC FZ-M1 INTEL i5 256GB SSD M.2 LTE GPS WLAN
+WINDOWS 10 <https://www.ebay.de/itm/276364768992?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=276364768992>
+
+	
+175,53 €
++7,97 € Versand
+	
+-
+	
+103
+	
+
+	
+4. Mrz 2024
+Lenovo G700 Notebook 17,3" Pentium 2.40 GHz 8GB RAM 256GB SSD WIN11 PRO
+-100%25 OK
+, Vorschau des Bildes anzeigen
+
+Lenovo G700 Notebook 17,3" Pentium 2.40 GHz 8GB RAM 256GB SSD WIN11 PRO
+-100%25 OK
+
+Lenovo G700 Notebook 17,3" Pentium 2.40 GHz 8GB RAM 256GB SSD WIN11 PRO
+-100%25 OK <https://www.ebay.de/itm/326376935770?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=326376935770>
+
+	
+80,24 €
++7,01 € Versand
+	
+-
+	
+8
+	
+-
+	
+19. Dez 2024
+Lenovo ThinkPad T470 i5 16GB 256GB SSD M.2 14,1" Win11 A-Ware
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad T470 i5 16GB 256GB SSD M.2 14,1" Win11 A-Ware
+
+Lenovo ThinkPad T470 i5 16GB 256GB SSD M.2 14,1" Win11 A-Ware <https://
+www.ebay.de/itm/316047604244?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=316047604244>
+
+	
+159,48 €
+Kostenloser Versand
+	
+-
+	
+30
+	
+
+	
+13. Dez 2024
+HP EliteBook 840 G6 i5 8365U 8GB RAM 256GB NVME W11 Neuer AKKU
+Gebrauchspuren
+, Vorschau des Bildes anzeigen
+
+HP EliteBook 840 G6 i5 8365U 8GB RAM 256GB NVME W11 Neuer AKKU
+Gebrauchspuren
+
+HP EliteBook 840 G6 i5 8365U 8GB RAM 256GB NVME W11 Neuer AKKU
+Gebrauchspuren <https://www.ebay.de/itm/235876078513?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=235876078513>
+
+	
+129,39 €
++7,01 € Versand
+	
+-
+	
+8
+	
+-
+	
+18. Dez 2024
+HP Notebook 17-y018ng 17,3 Full-HD 4GB RAM 1TB HDD AMD Quad Core E2-7110
+, Vorschau des Bildes anzeigen
+
+HP Notebook 17-y018ng 17,3 Full-HD 4GB RAM 1TB HDD AMD Quad Core E2-7110
+
+HP Notebook 17-y018ng 17,3 Full-HD 4GB RAM 1TB HDD AMD Quad Core E2-7110
+<https://www.ebay.de/itm/256749232701?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256749232701>
+
+	
+80,23 €
+Kostenloser Versand
+	
+-
+	
+2
+	
+
+	
+13. Dez 2024
+Panasonic Toughbook CF-19 MK8 10.1 " Touchscreen i5-3610ME 8GB 240GB SSD
+4G LTE
+, Vorschau des Bildes anzeigen
+
+Panasonic Toughbook CF-19 MK8 10.1 " Touchscreen i5-3610ME 8GB 240GB SSD
+4G LTE
+
+Panasonic Toughbook CF-19 MK8 10.1 " Touchscreen i5-3610ME 8GB 240GB SSD
+4G LTE <https://www.ebay.de/itm/116425362996?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=116425362996>
+
+	
+156,25 €
++15,12 € Versand
+	
+-
+	
+0
+	
+
+	
+21. Dez 2024
+Panasonic Toughbook CF-C2 MK2 i5 4310U 12GB ohne Netzteil, Kratzer am
+Display
+, Vorschau des Bildes anzeigen
+
+Panasonic Toughbook CF-C2 MK2 i5 4310U 12GB ohne Netzteil, Kratzer am
+Display
+
+Panasonic Toughbook CF-C2 MK2 i5 4310U 12GB ohne Netzteil, Kratzer am
+Display <https://www.ebay.de/itm/305218897167?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=305218897167>
+
+	
+141,42 €
+Kostenloser Versand
+	
+-
+	
+45
+	
+
+	
+21. Okt 2023
+Hyrican NOT01685 14" Notebook %7c i5-10210U %7c 16GB RAM %7c 500GB SSD
+%7c Win 11 %7c 1kg
+, Vorschau des Bildes anzeigen
+
+Hyrican NOT01685 14" Notebook %7c i5-10210U %7c 16GB RAM %7c 500GB SSD
+%7c Win 11 %7c 1kg
+
+Hyrican NOT01685 14" Notebook %7c i5-10210U %7c 16GB RAM %7c 500GB SSD
+%7c Win 11 %7c 1kg <https://www.ebay.de/itm/226505676544?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=226505676544>
+
+	
+250,75 €
+Kostenloser Versand
+	
+-
+	
+0
+	
+-
+	
+20. Dez 2024
+Lenovo ThinkPad L13 Yoga Gen 2, Intel i5-1135G7, 8GB Ram, ohne SSD, als
+Defekt
+, Vorschau des Bildes anzeigen
+
+Lenovo ThinkPad L13 Yoga Gen 2, Intel i5-1135G7, 8GB Ram, ohne SSD, als
+Defekt
+
+Lenovo ThinkPad L13 Yoga Gen 2, Intel i5-1135G7, 8GB Ram, ohne SSD, als
+Defekt <https://www.ebay.de/itm/146203900162?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=146203900162>
+
+	
+150,41 €
++7,02 € Versand
+	
+-
+	
+3
+	
+-
+	
+18. Nov 2024
+Lenovo V155-15API AMD RYREN 5-3500U %7c 8GB RAM %7c Vega 8 Grafik
+, Vorschau des Bildes anzeigen
+
+Lenovo V155-15API AMD RYREN 5-3500U %7c 8GB RAM %7c Vega 8 Grafik
+
+Lenovo V155-15API AMD RYREN 5-3500U %7c 8GB RAM %7c Vega 8 Grafik
+<https://www.ebay.de/itm/395964947166?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=395964947166>
+
+	
+79,24 €
++9,03 € Versand
+	
+-
+	
+5
+	
+-
+	
+3. Dez 2024
+HP Elitebook 840 G5 i5-8350U / 14" FHD / 16GB RAM /256GB NVMe/Win 11 /
+WLAN/BT.
+, Vorschau des Bildes anzeigen
+
+HP Elitebook 840 G5 i5-8350U / 14" FHD / 16GB RAM /256GB NVMe/Win 11 /
+WLAN/BT.
+
+HP Elitebook 840 G5 i5-8350U / 14" FHD / 16GB RAM /256GB NVMe/Win 11 /
+WLAN/BT. <https://www.ebay.de/itm/276768539045?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=276768539045>
+
+	
+249,76 €
++7,01 € Versand
+	
+-
+	
+4
+	
+-
+	
+5. Dez 2024
+IBM ThinkPad 755CD P75 funktioniert, DOS
+, Vorschau des Bildes anzeigen
+
+IBM ThinkPad 755CD P75 funktioniert, DOS
+
+IBM ThinkPad 755CD P75 funktioniert, DOS <https://www.ebay.de/
+itm/267041187040?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=267041187040>
+
+	
+150,45 €
++5,02 € Versand
+	
+-
+	
+15
+	
+-
+	
+26. Okt 2024
+Asus Rog G75VW 17,3 i7-3610QM 3.1 GHz 16GB RAM GTX 670M 3GB GDDR5 SSD
+und HDD
+, Vorschau des Bildes anzeigen
+
+Asus Rog G75VW 17,3 i7-3610QM 3.1 GHz 16GB RAM GTX 670M 3GB GDDR5 SSD
+und HDD
+
+Asus Rog G75VW 17,3 i7-3610QM 3.1 GHz 16GB RAM GTX 670M 3GB GDDR5 SSD
+und HDD <https://www.ebay.de/itm/256749484301?
+nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=256749484301>
+
+	
+290,87 €
+Kostenloser Versand
+	
+-
+	
+3
+	
+
+	
+13. Dez 2024
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+, Vorschau des Bildes anzeigen
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB SSD
+
+Dell Latitude 7300 13,3" Laptop %7c Intel i5-8365U %7c 8GB RAM %7c 128GB
+SSD <https://www.ebay.de/itm/356395319368?nordt=true&orig_cvip=true&rt=nc>
+	
+Bearbeiten
+
+  * Ähnlichen Artikel verkaufen
+
+    <https://www.ebay.de/sl/list?mode=SellLikeItem&itemId=356395319368>
+
+	
+130,35 €
+Kostenloser Versand
+	
+-
+	
+3
+	
+-
+	
+21. Dez 2024
+
+ 1. Seite 1
+
+Ergebnisse pro Seite
+
+  * Über eBay <https://www.ebayinc.com/stories/press-room/de/>
+  * eBay News <https://community.ebay.de/t5/eBay-Mitteilungen/bg-p/eBay-
+    Mitteilungen>
+  * Community <https://community.ebay.de/>
+  * Sicherheitsportal <https://pages.ebay.de/safetycenter/>
+  * Verkäuferportal <https://www.ebay.de/verkaeuferportal>
+  * Verifizierte Rechteinhaber-Programm <https://pages.ebay.de/vero/>
+  * Grundsätze <https://www.ebay.de/help/policies/default/die-
+    ebaygrundstze-im-berblick?id=4205>
+  * Partnerprogramm <https://partnernetwork.ebay.de/>
+  * Hilfe <https://www.ebay.de/help/home>
+  * Übersicht <https://pages.ebay.de/sitemap.html>
+
+Copyright © 1995–2024 eBay Inc. Alle Rechte vorbehalten.
+Barrierefreiheit <https://pages.ebay.de/barrierefreiheit/>, Impressum
+<https://www.ebay.de/help/policies/member-behavior-policies/impressum?
+id=4714>, eBay-AGB <https://www.ebay.de/help/policies/member-behaviour-
+policies/user-agreement?id=4259>, Datenschutzerklärung <https://
+www.ebay.de/help/policies/member-behaviour-policies/user-privacy-notice-
+privacy-policy?id=4260>, Erklärung zur Verwendung von
+Nutzungsbedingungen für die Zahlungsabwicklung <https://pages.ebay.de/
+payment/2.0/terms.html>, Cookies <https://www.ebay.de/help/policies/
+member-behaviour-policies/ebay-cookie-notice?id=4267> und AdChoice
+<https://www.ebay.de/adchoice>
+
+Copyright © 1995–2024 eBay Inc. Alle Rechte vorbehalten.
+Barrierefreiheit <https://pages.ebay.de/barrierefreiheit/>, Impressum
+<https://www.ebay.de/help/policies/member-behavior-policies/impressum?
+id=4714>, eBay-AGB <https://www.ebay.de/help/policies/member-behaviour-
+policies/user-agreement?id=4259>, Datenschutzerklärung <https://
+www.ebay.de/help/policies/member-behaviour-policies/user-privacy-notice-
+privacy-policy?id=4260>, Nutzungsbedingungen für die Zahlungsabwicklung
+<https://pages.ebay.de/payment/2.0/terms.html>, Cookies <https://
+www.ebay.de/help/policies/member-behaviour-policies/ebay-cookie-notice?
+id=4267> und AdChoice <https://www.ebay.de/adchoice>
+

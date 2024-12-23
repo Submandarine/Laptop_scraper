@@ -22,7 +22,7 @@ Laptop_Scraper will extract the item IDs out of all files in `/input_data` and s
 - CPU
 - CPU Bench score (https://www.cpubenchmark.net/CPU_mega_page.html)
 
-It then launches a GUI which shows a price/CPU-score chart which makes it easy to find good offers. Remember the chart will not be complete as not all offers include the CPU name in a format the parser can detect.
+It then launches a GUI with a price/CPU-score chart which makes it easy to find good offers. Remember the chart will not be complete as not all offers include the CPU name in a format the parser can detect.
 
 ## QoL
 
